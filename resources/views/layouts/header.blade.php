@@ -110,33 +110,6 @@
               </li>
             </ul>
           </li>
-          <li> <a href="#"><span class="title">Explore</span></a>
-            <!-- Level Two-->
-            <ul>
-              <li> <a href="#">User Info</a> 
-                <ul>
-                <li><a href="{{route('DashBoard')}}">Dashboard</a></li>
-                  <li><a href="{{route('UserProfile')}}">Profile</a></li> 
-                  <li><a href="{{route('MyListings')}}">My Orders</a></li>
-                  <li><a href="{{route('Favourites')}}">Favorites</a></li>
-                  <li><a href="{{route('Messages')}}">Messages</a></li>
-                  <li><a href="{{route('LogOut')}}">Logout</a></li>
-                </ul>
-              </li>
-              <li><a href="{{route('UserProfile')}}">User Profile</a></li> 
-            </ul>
-          </li>
-          <li> <a href="#"><span class="title">Listing</span></a>
-            <ul>
-              <li> <a href="#">Listing Styles</a> 
-                <ul>
-                  <li><a href="{{route('listingv1')}}">Lising V1</a></li>
-                  <li><a href="page-list-v2.html">Listing v2</a></li>
-                  <li><a href="page-list-v3.html">Listing v3</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
           <li class="add_listing"><a href="{{route ('LoginPage')}}">Login</a></li>
           <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li>
           <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li>
