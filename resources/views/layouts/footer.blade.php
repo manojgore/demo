@@ -60,7 +60,7 @@
       <div class="row">
         <div class="col-md-6 col-lg-8 col-xl-9">
           <div class="copyright-widget mt5 text-start mb20-sm">
-            <p> 2021 © All Rights Reserved | Cooked with ❤️ by Psyber Inc</p>
+            <p> 2024 © All Rights Reserved | Cooked with ❤️ by Psyber Inc</p>
           </div>
         </div>
         <div class="col-md-6 col-lg-4 col-xl-3">
