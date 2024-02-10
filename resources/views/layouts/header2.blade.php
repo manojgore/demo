@@ -97,7 +97,7 @@
               <li><a href="{{route('UserProfile')}}">User Profile</a></li>
             </ul>
           </li>
-          <li> <a href="#"><span class="title">Listing</span></a>
+          <li> <a href="#"><span class="title">Listing</span></a> 
             <ul>
               <li> <a href="#">Listing Styles</a> 
                 <ul>
