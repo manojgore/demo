@@ -53,7 +53,6 @@
     </div>
   </div>
   <!-- Sidebar Panel End -->
-  
   <!-- header top -->
   <div class="header_top home3_style dn-992">
     <div class="container">
