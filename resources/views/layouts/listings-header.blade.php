@@ -95,7 +95,7 @@
           <button type="button" id="menu-btn">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+            <span class="icon-bar"></span> 
           </button>
         </div>
         <a href="{{route('HomePage')}}" class="navbar_brand float-start dn-md">
