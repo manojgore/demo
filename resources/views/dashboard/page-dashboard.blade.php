@@ -7,7 +7,7 @@
 					</div>
 					<div class="row">
 						<div class="col-xl-8">
-              <div class="breadcrumb_content mb50">
+              <div class="breadcrumb_content mb50"> 
                 <h2 class="breadcrumb_title">Hello, {{$user->name}}</h2>
                 <p>Ready to jump back in!</p>
               </div>
