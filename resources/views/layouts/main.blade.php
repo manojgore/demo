@@ -96,7 +96,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-        </div>
+        </div> 
         <a href="{{route('HomePage')}}" class="navbar_brand float-start dn-md">
           <img class="logo1 img-fluid" src="images/header-logo.svg" alt="header-logo.svg">
           <img class="logo2 img-fluid" src="images/header-logo2.svg" alt="header-logo2.svg">
