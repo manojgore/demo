@@ -32,9 +32,6 @@ use Illuminate\Foundation\Auth\EmailVerificationRequest;
 
 // routes/web.php
 
-
-
-
 Route::get('/', [LandingPageController::class, 'index'])->name('HomePage');
 
 // Route::view('/homepage', 'index');
