@@ -103,7 +103,7 @@
 				</a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu text-end" data-menu-style="horizontal">
-         <li class="add_listing"> <a href="#"><span class="title">Corporate booking</span></a> </li>
+         <li class="add_listing"> <a href="#" data-bs-toggle="modal" data-bs-target="#logInModal"><span class="title">Corporate booking</span></a> </li>
          {{-- <li> <a href="#"><span class="title">Company Dashboard</span></a>
             <!-- Level Two-->
             <ul>
@@ -111,8 +111,8 @@
               </li>
             </ul>
           </li> --}}
-          <li class="add_listing"><a href="{{route ('LoginPage')}}">Login</a></li>
-          <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li>
+          {{-- <li class="add_listing"><a href="{{route ('LoginPage')}}">Login</a></li>
+          <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li> --}}
           <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li>
         </ul>
       </div>
