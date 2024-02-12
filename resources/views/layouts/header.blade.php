@@ -103,7 +103,7 @@
 				</a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu text-end" data-menu-style="horizontal">
-        <li> <a href="#"><span class="title">Company Dashboard</span></a>
+         <li> <a href="#"><span class="title">Company Dashboard</span></a>
             <!-- Level Two-->
             <ul>
               <li> <a href="{{route('companies.dashboard')}}">Company Dashboard</a> 
