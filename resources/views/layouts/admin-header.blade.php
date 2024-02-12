@@ -81,11 +81,11 @@
         </a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu menu_list_custom_code wa text-end" data-menu-style="horizontal">
-          <li> <a href="#"><span class="title">Explore</span></a>
+          {{-- <li> <a href="#"><span class="title">Explore</span></a> --}}
             <!-- Level Two-->
-            <ul>
+            {{-- <ul> --}}
               <li> <a href="#">User Info</a> 
-              <ul> 
+                <ul> 
                   <li><a href="{{route('admin.dashboard')}}"><span class="flaticon-dashboard"></span>Dashboard</a></li>
                     <li><a href="{{route('admin.profile')}}"><span class="flaticon-user-2"></span>Profile</a></li>
                     <li><a href="{{route('admin.carslistings')}}"><span class="flaticon-list"></span>My Listing</a></li>
@@ -97,9 +97,9 @@
                     <li><a href="{{route('LogOut')}}"><span class="flaticon-logout"></span>Logout</a></li>
                   </ul>
               </li>
-              <li><a href="page-user-profile.html">User Profile</a></li>
-            </ul>
-          </li>
+              {{-- <li><a href="page-user-profile.html">User Profile</a></li> --}}
+            {{-- </ul> --}}
+          {{-- </li> --}}
           <!-- <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li> -->
           <li class="add_listing"><a href="{{route('admin.addlisting')}}">+ Add Listing</a></li>
           <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li>

@@ -81,10 +81,10 @@
         </a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu menu_list_custom_code wa text-end" data-menu-style="horizontal">
-          <li> <a href="#"><span class="title">Explore</span></a>
+          {{-- <li> <a href="#"><span class="title">Explore</span></a>
             <!-- Level Two-->
-            <ul>
-              <li> <a href="#">User Info</a> 
+            <ul> --}}
+              <li> <a href="#">My Profile</a> 
                 <ul>
                   <li><a href="{{route('DashBoard')}}">Dashboard</a></li>
                   <li><a href="{{route('UserProfile')}}">Profile</a></li> 
@@ -94,9 +94,9 @@
                   <li><a href="{{route('LogOut')}}">Logout</a></li>
                 </ul>
               </li>
-              <li><a href="{{route('UserProfile')}}">User Profile</a></li>
+              {{-- <li><a href="{{route('UserProfile')}}">User Profile</a></li>
             </ul>
-          </li>
+          </li> --}}
           <li> <a href="#"><span class="title">Listing</span></a> 
             <ul>
               <li> <a href="#">Listing Styles</a> 
