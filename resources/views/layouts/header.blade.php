@@ -75,8 +75,8 @@
               <li class="list-inline-item"><a href="#"><span class="fab fa-twitter"></span></a></li>
               <li class="list-inline-item"><a href="#"><span class="fab fa-instagram"></span></a></li>
               <li class="list-inline-item"><a href="#"><span class="fab fa-linkedin"></span></a></li>
-              <li class="list-inline-item"><a href="#" data-bs-toggle="modal" data-bs-target="#logInModal">Login</a></li>
-              <li class="list-inline-item"><a href="#" data-bs-toggle="modal" data-bs-target="#logInModal">Register</a></li>
+              <li class="list-inline-item"><a href="{{route ('LoginPage')}}" data-bs-toggle="modal" data-bs-target="#logInModal">Login</a></li>
+              <li class="list-inline-item"><a href="{{route ('RegistrationPage')}}" data-bs-toggle="modal" data-bs-target="#logInModal">Register</a></li>
             </ul>
           </div>
         </div>
@@ -103,13 +103,14 @@
 				</a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu text-end" data-menu-style="horizontal">
-         <li> <a href="#"><span class="title">Company Dashboard</span></a>
+         <li class="add_listing"> <a href="#"><span class="title">Corporate booking</span></a> </li>
+         {{-- <li> <a href="#"><span class="title">Company Dashboard</span></a>
             <!-- Level Two-->
             <ul>
               <li> <a href="{{route('companies.dashboard')}}">Company Dashboard</a> 
               </li>
             </ul>
-          </li>
+          </li> --}}
           <li class="add_listing"><a href="{{route ('LoginPage')}}">Login</a></li>
           <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li>
           <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li>
