@@ -73,8 +73,7 @@
         </div>
       </div>
     </div>
-  </section>
-  
+  </section> 
   <!-- Car Category -->
   <section class="car-category mobile_space bgc-f9 z-2 pb100">
     <div class="container">
