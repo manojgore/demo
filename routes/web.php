@@ -70,7 +70,7 @@ Route::post('company/signup', [CompanyController::class, 'RegisterCompany'])->na
 Route::put('company/profile',  [CompanyController::class, 'updatecompanyprofile'])->name('update.companies.profile');
 
 Route::group(['middleware' => ['auth', 'company']], function (){
-    
+     
     Route::get('company/dashboard',  [CompanyController::class, 'showcompanydashboard'])->name('companies.dashboard');
 
     Route::get('company/orders',  [CompanyController::class, 'showcompanyorders'])->name('companies.orders');
