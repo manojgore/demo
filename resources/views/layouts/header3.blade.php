@@ -77,7 +77,7 @@
         </div>
         <a href="{{route('HomePage')}}" class="navbar_brand float-start dn-md">
           <img class="logo1 img-fluid" src="images/header-logo2.svg" alt="header-logo2.png">
-          <img class="logo2 img-fluid" src="images/header-logo2.svg" alt="header-logo2.svg">
+          <img class="logo2 img-fluid" src="images/header-logo2.svg" alt="header-logo2.svg"> 
         </a>
         <!-- Responsive Menu Structure-->
         <ul id="respMenu" class="ace-responsive-menu menu_list_custom_code wa text-end" data-menu-style="horizontal">
