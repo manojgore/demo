@@ -31,7 +31,7 @@
                 <div class="icon"><span class="flaticon-heart"></span></div>
                 <div class="detais text-end">
                   <div class="timer">20</div>
-                  <p class="para">Favorites</p>
+                  <p class="para">Favorites</p> 
                 </div>
               </div>
             </div>
