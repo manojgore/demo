@@ -70,7 +70,7 @@
         <div class="menu-toggle">
           <button type="button" id="menu-btn">
             <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
+            <span class="icon-bar"></span> 
             <span class="icon-bar"></span>
           </button>
         </div>
