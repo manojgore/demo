@@ -48,7 +48,7 @@
           </div>
         </div>
         <div class="col-lg-4 col-xl-5">
-          <div class="header_top_social_widgets text-center text-md-end">
+          <div class="header_top_social_widgets text-center text-md-end"> 
             <ul class="m0">
               <li class="list-inline-item"><a href="#"><span class="fab fa-facebook-f"></span></a></li>
               <li class="list-inline-item"><a href="#"><span class="fab fa-twitter"></span></a></li>
