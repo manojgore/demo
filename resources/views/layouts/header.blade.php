@@ -260,7 +260,7 @@
                   <li><a href="{{route('LogOut')}}">Logout</a></li>
                 </ul>
             </li>
-            <li><a href="{{route('UserProfile')}}">User Profile</a></li>
+            <li><a href="{{route('UserProfile')}}">User Profile</a></li> 
           </ul>
         </li>
         <li><span>Listings</span>
