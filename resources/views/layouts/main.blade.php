@@ -112,7 +112,7 @@
               <li><a href="index4.html">Home V4</a></li>
               <li><a href="index5.html">Home V5</a></li>
               <li><a href="index6.html">Home V6</a></li>
-              <li><a href="index7.html">Home V7</a></li>
+              <li><a href="index7.html">Home V7</a></li> 
             </ul>
           </li>
           <li> <a href="#"><span class="title">Explore</span></a>
