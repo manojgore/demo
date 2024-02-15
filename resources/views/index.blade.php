@@ -17,7 +17,7 @@
                       <button class="nav-link" id="pills-newcar-tab" data-bs-toggle="pill" data-bs-target="#pills-newcar" type="button" role="tab" aria-controls="pills-newcar" aria-selected="false">All status</button>
                     </li>
                   </ul>
-                  <div class="adss_bg_stylehome1"> 
+                  <div class="adss_bg_stylehome1">  
                     <div class="tab-content" id="pills-tabContent">
                       <div class="tab-pane fade show active" id="pills-allstatus" role="tabpanel" aria-labelledby="pills-allstatus-tab">
                         <div class="row">
