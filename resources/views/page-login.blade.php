@@ -134,7 +134,7 @@
                   <p>New to Cars.com? <a href="page-register.html">Sign up.</a></p>
                   <form action="#">
                     <div class="mb-2 mr-sm-2">
-                      <label class="form-label">Username or email address  *</label>
+                      <label class="form-label">Username or email address  *</label> 
                       <input type="text" class="form-control">
                     </div>
                     <div class="form-group mb5">
