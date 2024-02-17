@@ -166,7 +166,7 @@
             </ul>
           </li>
           <li> <a href="#"><span class="title">Blog</span></a>
-            <ul>
+            <ul> 
               <li><a href="page-blog-grid.html">Blog Grid</a></li>
               <li><a href="page-blog-list.html">Blog List</a></li>
               <li><a href="page-blog-single.html">Blog Single</a></li>
