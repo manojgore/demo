@@ -91,7 +91,7 @@
                   <li><a href="page-dashboard-listing.html">My Listing</a></li>
                   <li><a href="page-dashboard-favorites.html">Favorites</a></li>
                   <li><a href="page-dashboard-add-listings.html">Add Listing</a></li>
-                  <li><a href="page-dashboard-messages.html">Messages</a></li>
+                  <li><a href="page-dashboard-messages.html">Messages</a></li> 
                   <li><a href="page-login.html">Logout</a></li>
                 </ul>
               </li>
