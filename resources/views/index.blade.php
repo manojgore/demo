@@ -23,7 +23,7 @@
                         <div class="row">
                         <div class="col-lg-12">
     <div class="home1_advance_search_wrapper">
-        <ul class="mb-0 text-center">
+        <ul class="mb-0 text-center"> 
             <li class="list-inline-item" style="margin-bottom: 10px;">
                 <div class="select-boxes">
                     <div class="car_brand">
