@@ -97,7 +97,7 @@
         </div>
         <a href="{{route('HomePage')}}" class="navbar_brand float-start dn-md">
         <img class="logo1 img-fluid" src="{{ asset('images/header-logo1.svg') }}" alt="header-logo1.png">
-<img class="logo2 img-fluid" src="{{ asset('images/header-logo2.svg') }}" alt="header-logo2.svg">
+<img class="logo2 img-fluid" src="{{ asset('images/header-logo2.svg') }}" alt="header-logo2.svg"> 
 
         </a>
         <!-- Responsive Menu Structure-->
