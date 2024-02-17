@@ -49,7 +49,7 @@
                             </x-dropdown-link>
                         </form>
                     </x-slot>
-                </x-dropdown>
+                </x-dropdown> 
             </div>
 
             <!-- Hamburger -->
