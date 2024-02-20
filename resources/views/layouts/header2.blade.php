@@ -88,7 +88,7 @@
                 <ul>
                   <li><a href="{{route('DashBoard')}}">Dashboard</a></li>
                   <li><a href="{{route('UserProfile')}}">Profile</a></li> 
-                  <li><a href="{{route('MyListings')}}">My Orders</a></li>
+                  <li><a href="{{route('MyListings')}}">My Orders</a></li> 
                   <li><a href="{{route('Favourites')}}">Favorites</a></li>
                   <li><a href="{{route('Messages')}}">Messages</a></li>
                   <li><a href="{{route('LogOut')}}">Logout</a></li>
