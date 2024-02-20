@@ -102,7 +102,7 @@
           {{-- </li> --}}
           <!-- <li class="add_listing"><a href="{{route ('RegistrationPage')}}">Register</a></li> -->
           <li class="add_listing"><a href="{{route('admin.addlisting')}}">+ Add Listing</a></li>
-          <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li>
+          <li class="sidebar_panel"><a class="sidebar_switch pt0" href="#"><span></span></a></li> 
           <li><a class="notification" href="#"><span class="body-color flaticon-bell fz16"></span></a></li>
           <li class="user_setting">
             <div class="dropdown">
