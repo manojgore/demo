@@ -187,7 +187,7 @@
               </ul>
             </div>
           </div>
-          <div class="tab-content container p0" id="myTabContent">
+          <div class="tab-content container p0" id="myTabContent"> 
             <div class="row mt30 tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
               <div class="col-lg-12">
                 <div class="login_form">
